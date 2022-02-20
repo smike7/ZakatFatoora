@@ -33,6 +33,7 @@ import CoreImage.CIFilterBuiltins
 
 
 @available(iOS 13.0, *)
+
 public class ZakatFatoora {
     
     
